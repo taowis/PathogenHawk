@@ -6,7 +6,11 @@ It supports multiple species including *Candida auris*, *E. coli*, and *Aspergil
 
 ---
 
-# 📚 Rationale
+## 📄 Project Links
+- 📂 [Source Code](https://github.com/biosciences/PathogenHawk): Explore the full repository
+- 🔗 [Live Report](https://biosciences.github.io/PathogenHawk/demo_cauris.html): View the interactive HTML output
+
+## 📚 Rationale
 
 C. auris is an emerging pathogen with significant resistance concerns Novel antifungals and treatment approaches to tackle resistance and improve outcomes of invasive fungal disease.
 
