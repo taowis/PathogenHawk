@@ -1,0 +1,5 @@
+sample_id,ceftriaxone_MIC,colistin_MIC,ceftriaxone_resistance,colistin_resistance
+Ecoli001,64,4.0,Resistant,Resistant
+Ecoli002,1,0.25,Susceptible,Susceptible
+Ecoli003,32,8.0,Resistant,Resistant
+Ecoli004,2,0.5,Susceptible,Susceptible

@@ -1,0 +1,6 @@
+gene	plasmid_associated	drug_class	resistance_type
+blaCTX-M	True	beta-lactam	ESBL
+mcr-1	True	polymyxin	colistin
+aac(6')-Ib	True	aminoglycoside	modification
+tetA	False	tetracycline	efflux
+sul1	False	sulfonamide	target replacement

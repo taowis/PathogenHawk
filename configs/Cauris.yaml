@@ -1,0 +1,11 @@
+pathogen: candida_auris
+reference_genome: data/raw/C_auris_B8441V3_ref.fa
+resistance_genes: data/metadata/Cauris_amr_genes.tsv
+phenotype_file: data/metadata/Cauris_MIC.csv
+feature_file: data/metadata/Cauris_features.tsv
+labels: fluconazole_resistance
+alignment_tool: bwa
+variant_caller: freebayes
+features: ["snp", "resistance_genes"]
+ml_model: xgboost
+output_dir: results/Candida_auris

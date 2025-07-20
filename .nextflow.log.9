@@ -1,0 +1,14 @@
+July-20 22:58:36.180 [main] DEBUG nextflow.cli.Launcher - $> nextflow run pathogenhawk.nf --config configs/Cauris.yaml
+July-20 22:58:36.212 [main] DEBUG nextflow.cli.CmdRun - N E X T F L O W  ~  version 25.04.6
+July-20 22:58:36.228 [main] DEBUG nextflow.plugin.PluginsFacade - Setting up plugin manager > mode=prod; embedded=false; plugins-dir=/Users/kl/.nextflow/plugins; core-plugins: nf-amazon@2.15.0,nf-azure@1.16.0,nf-cloudcache@0.4.3,nf-codecommit@0.2.3,nf-console@1.2.1,nf-google@1.21.1,nf-k8s@1.0.0,nf-tower@1.11.4,nf-wave@1.12.1
+July-20 22:58:36.249 [main] INFO  o.pf4j.DefaultPluginStatusProvider - Enabled plugins: []
+July-20 22:58:36.249 [main] INFO  o.pf4j.DefaultPluginStatusProvider - Disabled plugins: []
+July-20 22:58:36.250 [main] INFO  org.pf4j.DefaultPluginManager - PF4J version 3.12.0 in 'deployment' mode
+July-20 22:58:36.256 [main] INFO  org.pf4j.AbstractPluginManager - No plugins
+July-20 22:58:36.262 [main] DEBUG nextflow.scm.ProviderConfig - Using SCM config path: /Users/kl/.nextflow/scm
+July-20 22:58:36.267 [main] DEBUG nextflow.cli.Launcher - Operation aborted
+nextflow.exception.AbortOperationException: Cannot find script file: pathogenhawk.nf
+	at nextflow.cli.CmdRun.getScriptFile(CmdRun.groovy:528)
+	at nextflow.cli.CmdRun.run(CmdRun.groovy:326)
+	at nextflow.cli.Launcher.run(Launcher.groovy:513)
+	at nextflow.cli.Launcher.main(Launcher.groovy:673)

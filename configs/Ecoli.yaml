@@ -1,0 +1,11 @@
+pathogen: ecoli
+reference_genome: data/raw/E_coli_ASM584V2_ref.fa
+resistance_genes: data/metadata/Ecoli_res_genes.tsv
+phenotype_file: data/metadata/Ecoli_MICs.csv
+feature_file: data/metadata/Ecoli_features.tsv
+label_column: ceftriaxone_resistant
+alignment_tool: bwa
+variant_caller: freebayes
+features: ["snp", "resistance_genes"]
+ml_model: xgboost
+output_dir: results/Escherichia_coli

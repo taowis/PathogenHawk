@@ -1,0 +1,11 @@
+name: pathogenhawk
+dependencies:
+  - python=3.10
+  - scikit-learn
+  - xgboost
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - jupyter
+  - biopython

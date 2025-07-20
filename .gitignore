@@ -1,0 +1,6 @@
+.DS_Store
+data/processed/
+__pycache__/
+.vscode/
+.nextflow.log
+*.log
