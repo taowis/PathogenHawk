@@ -4,5 +4,5 @@ data/processed/
 __pycache__/
 .nextflow/
 .vscode/
-.nextflow.log
+.nextflow.log*
 *.log
