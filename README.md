@@ -89,13 +89,6 @@ nextflow run pathogenhawk.nf --config configs/Ecoli.yaml
 
 ---
 
-## 📚 Publications
-
-This toolkit supports AMR research aligned with:
-
-- Sintchenko V. *Emerging applications of AI in pathogen genomics* (2024)
-- Ongoing efforts to tackle fungal and bacterial resistance threats
-
 ## 📚 Citation
 
 If you use **AMRScan** in your research, please cite the associated JOSS paper (under review):
