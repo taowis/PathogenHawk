@@ -1,9 +1,0 @@
-2025-07-20 22:58:50	-	hungry_cantor	-	20400c0fb703ac81cdf989c466c5f924	2a79f4f5-69b3-4d54-8d0a-e68318a1fc64	nextflow run workflow/pathogenhawk.nf --config configs/Cauris.yaml
-2025-07-20 23:00:22	-	hungry_mandelbrot	-	5b4f8c28ad4292a83d623fec18a10684	161be930-82d4-45a8-b137-0ce551f4ab11	nextflow run workflow/pathogenhawk.nf --config configs/Cauris.yaml
-2025-07-20 23:02:53	-	cranky_jennings	-	91366569a2072f747c59689a025165ae	79461cf4-d31a-478a-afe6-ea726dce4f51	nextflow run workflow/pathogenhawk.nf --config configs/Cauris.yaml
-2025-07-20 23:03:54	-	determined_crick	-	5b4f8c28ad4292a83d623fec18a10684	a838f987-5060-486d-bcd2-b331edfe33f1	nextflow run pathogenhawk.nf --config configs/Cauris.yaml
-2025-07-20 23:07:59	-	crazy_kalman	-	f6b1ffdad2094b448e6ca405e2db9240	32dfeca6-56db-45c9-815d-f52e96bbeb89	nextflow run workflow/pathogenhawk.nf --config configs/Cauris.yaml
-2025-07-20 23:09:14	-	scruffy_perlman	-	f6b1ffdad2094b448e6ca405e2db9240	5921148e-51a2-4240-8343-169e99c70991	nextflow run pathogenhawk.nf --config configs/Cauris.yaml
-2025-07-20 23:11:58	-	exotic_marconi	-	f6b1ffdad2094b448e6ca405e2db9240	8cac6c2e-e3e8-4887-8a2d-89dc6f7935d8	nextflow run pathogenhawk.nf --config configs/Cauris.yaml
-2025-07-20 23:12:20	-	thirsty_galileo	-	063026c981018d7f093400130bc3837e	30a9b495-42b1-4d9c-b9ac-385cc91ba7b8	nextflow run pathogenhawk.nf --config configs/Cauris.yaml
-2025-07-20 23:14:57	776ms	kickass_swartz	ERR	9dae6631493f50c07eb68883baa5398a	bbcb4e86-d287-4147-b765-5723714c4323	nextflow run pathogenhawk.nf --config configs/Cauris.yaml
