@@ -1,5 +1,5 @@
 ---
-title: 'PathogenHawk: A Multi-Pathogen Machine Learning Toolkit for Predicting Antimicrobial Resistance from Genomic Features'
+title: 'PathogenHawk: A Pathogen Machine Learning Toolkit for Predicting Antimicrobial Resistance from Genomic Features'
 tags:
   - bioinformatics
   - antimicrobial resistance

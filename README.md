@@ -96,6 +96,13 @@ This toolkit supports AMR research aligned with:
 - Sintchenko V. *Emerging applications of AI in pathogen genomics* (2024)
 - Ongoing efforts to tackle fungal and bacterial resistance threats
 
+## 📚 Citation
+
+If you use **AMRScan** in your research, please cite the associated JOSS paper (under review):
+
+> Lai, K. (2025). *PathogenHawk: A Pathogen Machine Learning Toolkit for Predicting Antimicrobial Resistance from Genomic Features*. Journal of Open Source Software (under review). https://github.com/biosciences/PathogenHawk
+
+
 ---
 
 ## 👩‍💻 Author
