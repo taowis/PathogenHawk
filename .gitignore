@@ -1,8 +1,19 @@
+# macOS system file
 .DS_Store
+
+# Nextflow intermediate and logs
 work/
-data/processed/
-__pycache__/
 .nextflow/
-.vscode/
 .nextflow.log*
+
+# Python cache
+__pycache__/
+
+# Logs
 *.log
+
+# VSCode settings
+.vscode/
+
+# Processed data
+data/processed/
