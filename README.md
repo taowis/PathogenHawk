@@ -95,7 +95,7 @@ nextflow run pathogenhawk.nf --config configs/Ecoli.yaml
 
 ## 📚 Citation
 
-If you use **AMRScan** in your research, please cite the associated JOSS paper (under review):
+If you use **PathogenHawk** in your research, please cite the associated JOSS paper (under review):
 
 > Lai, K. (2025). *PathogenHawk: A Pathogen Machine Learning Toolkit for Predicting Antimicrobial Resistance from Genomic Features*. Journal of Open Source Software (under review). https://github.com/biosciences/PathogenHawk
 
