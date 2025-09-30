@@ -50,6 +50,13 @@ The toolkit includes:
 
 An example use case using *Candida auris* is provided in `demo_cauris.ipynb`, with synthetic mutation profiles and resistance labels derived from MIC thresholds. Feature importance rankings and confusion matrices are automatically visualized after model training [@candidaauris2019].
 
+![Top Feature Importances](results/figures/top_feature_importances.png)
+**Figure 1.** Top-ranked genomic features (e.g. SNPs or CNVs) predictive of fluconazole resistance in *Candida auris*.
+
+![Confusion Matrix](results/figures/confusion_matrix.png)
+**Figure 2.** Confusion matrix of XGBoost classification on *C. auris* test set (Resistant vs Susceptible).
+
+
 # Acknowledgements
 
 We acknowledge the contributions of public datasets from NCBI and annotation resources from NCBI RefSeq and Ensembl Fungi. We also thank Prof. Vitali Sintchenko for his inspiration through his recent work on AI applications in pathogen genomics [@syntchenko2024ai].
