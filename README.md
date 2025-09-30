@@ -8,7 +8,7 @@ It supports multiple species including *Candida auris*, *E. coli*, and *Aspergil
 
 ## 📄 Project Links
 - 📂 [Source Code](https://github.com/biosciences/PathogenHawk): Explore the full repository
-- 🔗 [Live Report](https://biosciences.github.io/PathogenHawk/demo_cauris.html): View the interactive HTML output
+- 🔗 [Live Report](https://taowis.github.io/PathogenHawk/demo_cauris.html): View the interactive HTML output
 
 ## 📚 Rationale
 
